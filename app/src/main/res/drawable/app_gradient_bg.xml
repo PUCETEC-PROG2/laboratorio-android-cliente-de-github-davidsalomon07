@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Fondo degradado moderno que ayuda a resaltar el efecto Glassmorphism.
+  Los colores suaves permiten que la transparencia de las tarjetas se note mejor.
+-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:startColor="#E0EAFC"
+        android:endColor="#CFDEF3"
+        android:angle="45"/>
+</shape>
